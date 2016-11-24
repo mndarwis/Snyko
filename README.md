@@ -8,7 +8,7 @@ The player should eat the blue berries to increase the snake's length. The playe
 If the player eats the rotten berries, then the points will be subtracted by 1. # Make sure that you don't eat the yellow berry when your score is 0 !
 # Choose your background !
 The player can choose the background by pressing the letter "B" , and choose the background you want by pressing the letter under the background.
-# Volume play and mute !
+# Volume Setting !
 You can mute the music by either pressing 0 , or play the music by pressing 1 . 
 # You should not go to the edges , or else you'll lose!
 # There are 2 modes in SNYKO :
